@@ -9,5 +9,8 @@
 #7 Inheritance (derived and base class) 
 #8 abstract class
 #9 interface
+#10 Library
+#11 Build in Librays
+
 
 <img src="https://miro.medium.com/max/500/1*y6Opk-cAQVe6uyKYH3306g.png">
