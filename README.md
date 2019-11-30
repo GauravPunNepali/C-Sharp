@@ -9,3 +9,5 @@
 #7 Inheritance (derived and base class) 
 #8 abstract class
 #9 interface
+
+<img src="https://miro.medium.com/max/500/1*y6Opk-cAQVe6uyKYH3306g.png">
