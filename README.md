@@ -1,6 +1,11 @@
 <head><h1># C-Sharp</h1></head>
 
-<body>#1 Datatypes
+<body>
+  <h3>#1 Datatypes</h3>
+  <h3>#1 Datatypes</h3>
+</body>
+
+#1 Datatypes
 #2 Access Modifiers
 #3 Functions
 #4 Keywords and Statements
@@ -10,7 +15,7 @@
 #8 abstract class
 #9 interface
 #10 Library
-#11 Build in Librays</body>
+#11 Build in Librays
 
 
 
